@@ -10,3 +10,18 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+main img {
+	width: 300px;
+	margin-top: 10px;
+}
+
+.neb1 {
+	float: left;
+	margin-right: 10px;
+}
+
+.neb2 {
+	float: right;
+	margin-keft: 10px;
+}
